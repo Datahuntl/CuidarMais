@@ -7,10 +7,17 @@ Imagens de referencia para fazer um logo:
 ![image](https://github.com/user-attachments/assets/4175d477-42c4-4108-b7b1-b185c0f5b5d0)
 ![image](https://github.com/user-attachments/assets/6f3c918d-97d0-4d2b-903a-84422c122163)
 
-## Figma
+## Front-End
+
+Inspiração: https://www.behance.net/ https://dribbble.com/
+
+https://fontawesome.com/
+
+https://www.youtube.com/watch?v=PeGfX7W1mJk
+
+### Figma
+
 
 ## Banco de Dados
 
 ## Back-end
-
-## Front-end
